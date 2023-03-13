@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adria\\Desktop\\examenM5\\examenM5\\examenM5.csproj": {}
+    "C:\\Users\\adria\\examenm5uf2\\examenM5\\examenM5\\examenM5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adria\\Desktop\\examenM5\\examenM5\\examenM5.csproj": {
+    "C:\\Users\\adria\\examenm5uf2\\examenM5\\examenM5\\examenM5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adria\\Desktop\\examenM5\\examenM5\\examenM5.csproj",
+        "projectUniqueName": "C:\\Users\\adria\\examenm5uf2\\examenM5\\examenM5\\examenM5.csproj",
         "projectName": "examenM5",
-        "projectPath": "C:\\Users\\adria\\Desktop\\examenM5\\examenM5\\examenM5.csproj",
+        "projectPath": "C:\\Users\\adria\\examenm5uf2\\examenM5\\examenM5\\examenM5.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adria\\Desktop\\examenM5\\examenM5\\obj\\",
+        "outputPath": "C:\\Users\\adria\\examenm5uf2\\examenM5\\examenM5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
